@@ -6,8 +6,8 @@ A repository for in-depth study of core mathematics that underpins classical mac
 
 * Part 1: Linear Algebra
 * Part 2: Calculus
-*  Part 3: Multivariable Calculus
-*  Part 4: Probability Theory
+* Part 3: Multivariable Calculus
+* Part 4: Probability Theory
 
 ## Repo Organization
 
